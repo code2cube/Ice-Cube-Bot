@@ -1,2 +1,2 @@
 # Ice-Cube-Bot
-Bot was created for Snow Codes Hackathon by live2cube
+Winter themed PVP Bot made for [Snow Codes Bot Jam](https://www.snowcodes.org/#about)
